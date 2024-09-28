@@ -1,2 +1,5 @@
 site_name: LSYMTR Docs
 theme: material
+
+docs:
+  mkdocs: mkdocs.md
