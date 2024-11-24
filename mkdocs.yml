@@ -3,4 +3,4 @@ theme: material
 
 docs:
   mkdocs: mkdocs.md
-  zhy: zhy/
+  txt: txt.md
